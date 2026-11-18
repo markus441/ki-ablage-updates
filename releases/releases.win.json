@@ -2,12 +2,21 @@
   "Assets": [
     {
       "PackageId": "KI-Ablage",
-      "Version": "0.20.0",
+      "Version": "0.21.0",
       "Type": "Full",
-      "FileName": "KI-Ablage-0.20.0-full.nupkg",
-      "SHA1": "36D2CB9E1CCD66B7EFB8C404F49963956F958204",
-      "SHA256": "933B428D21A9D3298769239C1299CF1BB2909C59802C72908F78F0A602963159",
-      "Size": 89490146
+      "FileName": "KI-Ablage-0.21.0-full.nupkg",
+      "SHA1": "279283620CA88D1E2133A74303EA9C18A06C46E6",
+      "SHA256": "76B30C74684358B8710898448BD4FADEC5989248F210F2D400DA0B6B6A862ED1",
+      "Size": 89521981
+    },
+    {
+      "PackageId": "KI-Ablage",
+      "Version": "0.21.0",
+      "Type": "Delta",
+      "FileName": "KI-Ablage-0.21.0-delta.nupkg",
+      "SHA1": "F8BD43D6DA5EB6FFB4FA554479B234E2ADA3A1DF",
+      "SHA256": "5DD8D3913EC1917AACB4523A90DD4415AB6589F7219EAA908A1B73EAE4CD2FE2",
+      "Size": 751290
     },
     {
       "PackageId": "KI-Ablage",
@@ -17,15 +26,6 @@
       "SHA1": "10396E3B0350FB0E5E245E08B72560D9E91B7D46",
       "SHA256": "E4574E5F461D4F2F2A8AEEBC148714B8033F87D36FF0B5E9A90CE6B290AE4FAE",
       "Size": 5859634
-    },
-    {
-      "PackageId": "KI-Ablage",
-      "Version": "0.19.1",
-      "Type": "Delta",
-      "FileName": "KI-Ablage-0.19.1-delta.nupkg",
-      "SHA1": "E07EA31E76370826475EA492A2FD7AB14951F5CF",
-      "SHA256": "5D3583108828860519B85CF7228C96480CBEE712FE147C85CBEF062FE799736C",
-      "Size": 4729835
     }
   ]
 }
