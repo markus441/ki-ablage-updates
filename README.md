@@ -1,3 +1,5 @@
-# KI-Ablage – Updates
+# AblaKI – Download und Updates
 
-Hier liegen nur die fertigen Update-Pakete der KI-Ablage (Ordner `releases`). Das Programm holt sich neue Versionen automatisch von hier. Der Quellcode ist nicht öffentlich.
+**Download (Testversion):** [AblaKI-Setup.exe](https://github.com/markus441/ki-ablage-updates/raw/main/download/AblaKI-Setup.exe)
+
+Nach der Installation holt sich das Programm neue Versionen automatisch aus dem Ordner `releases`. Der Quellcode ist nicht öffentlich.
